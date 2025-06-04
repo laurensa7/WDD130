@@ -26,5 +26,33 @@ main section {
     text-align: center;
 }
 
+#background {
+    height: 725px;
+}  
 
-   
+body{
+ background-color:#028090 ;   
+}
+
+header{
+    background-color:#00bfb2 ;
+}
+
+nav a:hover {
+    background-color:#028090 ;
+}
+
+.book:hover, .join:hover{
+    background-color:#028090 ;
+}
+#background{
+    background-color:white ;
+}
+
+.msg {
+    background-color:#c64191 ;
+}
+footer{
+    background-color: #00bfb2;
+}
+
